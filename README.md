@@ -14,7 +14,8 @@ This repository contains a Power BI dashboard visualizing employee-related data.
 3. Explore and analyze the report.
 
 ## Screenshot
-![Dashboard Preview](<img width="1916" height="961" alt="preview png" src="https://github.com/user-attachments/assets/c9cba371-aea3-49a9-8d97-71027fbab993" />)
+![Dashboard Preview](preview.png)
+
 
 
 
